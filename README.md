@@ -55,7 +55,8 @@ It allows users to perform basic arithmetic operations through the terminal/comm
 
 
 
-<img width="412" height="374" alt="image" src="https://github.com/user-attachments/assets/1a3028f2-405f-4a34-bc3b-4fcf9bd479e7" />
+<img width="562" height="470" alt="image" src="https://github.com/user-attachments/assets/b337e487-a7a6-4155-b2c9-97db71691d7e" />
+
 
 
 ---
