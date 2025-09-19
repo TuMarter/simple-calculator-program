@@ -24,9 +24,11 @@ It allows users to perform basic arithmetic operations through the terminal/comm
 
 ## 📂 Project Files
 
--simple-calculator-program/
--PJ6Calculator.py # The main calculator program
--README.md # Documentation (this file)
+| File/Folder          | Description                  |
+|----------------------|------------------------------|
+| `PISCalculator.py`   | The main calculator program  |
+| `README.md`          | Documentation (this file)    |
+
 
 
 ---
