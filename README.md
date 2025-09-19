@@ -47,20 +47,7 @@ simple-calculator-program/
 ---
 
 📖 Example Program Output
-===== Welcome to the Simple Calculator Program =====
+<img width="412" height="374" alt="image" src="https://github.com/user-attachments/assets/1a3028f2-405f-4a34-bc3b-4fcf9bd479e7" />
 
-Important Notes:
-(+) for Addition
-(-) for Subtraction
-(*) for Multiplication
-(/) for Division
-
-Enter first number: 10
-Enter operator (+, -, *, /): *
-Enter second number: 5
-
-Result of 10 * 5 is 50
-
-End of the simple calculator program
 
 
