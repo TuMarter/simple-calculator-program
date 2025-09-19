@@ -1,22 +1,24 @@
-# 🧮 Simple Calculator Program
+# Simple Calculator Program
 
-This is a **beginner-friendly calculator program** written in Python.  
-It is a very simple project that allows users to perform **basic arithmetic operations** through the terminal/command line.  
+This is a beginner-friendly calculator program written in Python.  
+It allows users to perform basic arithmetic operations through the terminal/command line.
 
-The purpose of this project is to practice:
-- Using `print()` for displaying text
-- Accepting user input with `input()`
-- Converting input data to numbers (`float`)
-- Applying conditional logic with `if-elif-else`
+---
+
+## 🎯 Purpose
+- Practice using `print()` for displaying text  
+- Accepting user input with `input()`  
+- Converting input data to numbers (`float`)  
+- Applying conditional logic with `if-elif-else`  
 
 ---
 
 ## ✨ Features
 - ➕ Addition (`+`)
 - ➖ Subtraction (`-`)
-- ✖️ Multiplication (`*`)
+- ✖ Multiplication (`*`)
 - ➗ Division (`/`)
-- Error handling for invalid operators
+- ❌ Error handling for invalid operators  
 
 ---
 
@@ -44,24 +46,21 @@ simple-calculator-program/
 
 ---
 
-🖥️ Example Program Output
+📖 Example Program Output
+===== Welcome to the Simple Calculator Program =====
 
-==================================================
-Welcome to the Simple Calculator Program
-==================================================
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Important Notes:
 (+) for Addition
 (-) for Subtraction
 (*) for Multiplication
 (/) for Division
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Enter first number: 10
 Enter operator (+, -, *, /): *
 Enter second number: 5
+
 Result of 10 * 5 is 50
 
 End of the simple calculator program
+
 
