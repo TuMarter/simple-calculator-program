@@ -24,10 +24,9 @@ It allows users to perform basic arithmetic operations through the terminal/comm
 
 ## 📂 Project Files
 
-simple-calculator-program/
-│
-├── PJ6Calculator.py # The main calculator program
-└── README.md # Documentation (this file)
+-simple-calculator-program/
+-PJ6Calculator.py # The main calculator program
+-README.md # Documentation (this file)
 
 
 ---
@@ -47,7 +46,17 @@ simple-calculator-program/
 ---
 
 📖 Example Program Output
+
+
+
+
+
+
+
 <img width="412" height="374" alt="image" src="https://github.com/user-attachments/assets/1a3028f2-405f-4a34-bc3b-4fcf9bd479e7" />
+
+
+---
 
 
 
